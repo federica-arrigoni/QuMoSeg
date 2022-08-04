@@ -1,6 +1,6 @@
 # QuMoSeg
 
-Federica Arrigoni, Willi Menapace, Marcel Seelbach Benkner, Elisa Ricci and Vladislav Golyanik. Quantum Motion Segmentation. ECCV 2022
+Federica Arrigoni, Willi Menapace, Marcel Seelbach Benkner, Elisa Ricci and Vladislav Golyanik. *Quantum Motion Segmentation*. ECCV 2022
 
 This folder contains the code for the above paper. It is structured into three parts:
 
